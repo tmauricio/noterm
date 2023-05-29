@@ -1,2 +1,4 @@
 # noterm
-To get notes
+App to get notes
+
+# Author: Tobias Mauricio
