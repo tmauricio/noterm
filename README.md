@@ -11,12 +11,12 @@ NOTE: It's still BETA
  / python main.py
  
 ### Commands
-  [q] = exit
-  [arrow] = navigate notes
-  [enter] = to edit a note
-  [/] = to enable add command 
-  [n] = new note -> write the name and [enter]
-  [d] = delete note -> default apear the selected note. You can modify by other note
+- [q] = exit
+- [arrow] = navigate notes
+- [enter] = to edit a note
+- [/] = to enable add command 
+- [n] = new note -> write the name and [enter]
+- [d] = delete note -> default apear the selected note. You can modify by other note
   
-  on edit mode
-  [escape] = to save and return to the list notes
+on edit mode
+- [escape] = to save and return to the list notes
