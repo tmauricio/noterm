@@ -1,4 +1,4 @@
-# noterm
+# NOTERM
 App to get notes on terminal. 
 NOTE: It's still BETA
 
